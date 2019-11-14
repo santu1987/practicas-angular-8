@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'misuperng';
+  title2 = 'Ejercicio curso de victor robles';
+  hola_mundo = 'Hola Mundo Angular 5';
 }
